@@ -1,5 +1,5 @@
 # Scroll pHAT HD Rectangle Watch
-    ![LED Rectangle Watch](https://raw.githubusercontent.com/plusmnt/rectangle-scrollphathd-watch/master/dummy.png)
+ ![LED Rectangle Watch](https://raw.githubusercontent.com/plusmnt/rectangle-scrollphathd-watch/master/dummy.png)
 
 This is a base 12 watch using raspberry pi zero and Pimoroni Scroll pHAT HD.
 
