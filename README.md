@@ -32,5 +32,5 @@ Example of time:
 `show_time` function to create 3 dim rectangle and call `get_loc` to get location of hour,minute and second.
 
 ### Reference
-[Scroll pHAT HD Documentation ](http://docs.pimoroni.com/scrollphathd/)
-[How to Set the Time and TimeZone on the Raspberry Pi](http://kamilslab.com/2018/09/18/how-to-set-the-time-and-timezone-on-the-raspberry-pi/)
+- [Scroll pHAT HD Documentation ](http://docs.pimoroni.com/scrollphathd/)
+- [How to Set the Time and TimeZone on the Raspberry Pi](http://kamilslab.com/2018/09/18/how-to-set-the-time-and-timezone-on-the-raspberry-pi/)
