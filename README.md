@@ -6,6 +6,8 @@ This is a base 12 watch using raspberry pi zero and Pimoroni Scroll pHAT HD.
 ## Hardware
 - [Raspberry Pi Zero WH](https://www.adafruit.com/product/3708)
 - [Pimoroni Scroll pHAT HD](https://www.adafruit.com/product/3473)
+
+
 Optional
 - [Pibow Zero Case](https://www.adafruit.com/product/3005) 
 
