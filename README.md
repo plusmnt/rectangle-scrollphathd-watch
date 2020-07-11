@@ -19,6 +19,7 @@ With USB connection, it use 0.05A to 0.08A at 4.92V.
 - Minutes: divided by 5 then add 0.5 and convert the number to an integer.
 - Seconds: divided by 5 then add 0.5 and convert the number to an integer.
 If you have problem with NTP, port block or ISP block, use [HTTP Time protocol](http://www.vervest.org/htp/).
+
 Example of time:
 - 12:45:25 = 12:9:5
 - 19:29:33 = 7:6:7
